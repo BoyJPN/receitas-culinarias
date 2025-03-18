@@ -1,0 +1,27 @@
+footer {
+    margin-top: 90px;
+}
+
+.footer-list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-list ul {
+    display: flex;
+    list-style: none;
+}
+
+.footer-list li {
+    margin: 20px;
+}
+
+.footer-list a {
+    text-decoration: none;
+    color: black;
+}
+
+.footer-copy {
+    display: flex;
+    justify-content: center;
+}

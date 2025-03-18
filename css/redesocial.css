@@ -1,0 +1,40 @@
+main {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+img {
+    margin-top: 20px;
+    height: 200px;
+    border-radius: 200px;
+}
+
+.links {
+    margin-top: 60px;
+    list-style: none;
+}
+
+.links li {
+    margin-bottom: 10px;
+}
+
+.links a {
+    text-decoration: none;
+}
+
+.instagram {
+    color: purple;
+}
+
+.instagram2 {
+    color: violet;
+}
+
+.discord {
+    color: cornflowerblue;
+}
+
+.linktree {
+    color: aquamarine;
+}

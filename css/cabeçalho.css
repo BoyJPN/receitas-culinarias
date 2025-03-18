@@ -1,0 +1,36 @@
+body {
+    background-color: #4F4F4F	;
+}
+
+header {
+    background-color: #363636;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: solid 1px;
+}
+
+.logo {
+    margin-left: 10px;
+    color: #00BFFF;
+}
+
+.logo a{
+    text-decoration: none;
+    color: #00BFFF;
+}
+
+header nav ul {
+    display: flex;
+    list-style: none;
+}
+
+header nav li {
+    margin: 10px;
+}
+
+header nav a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #00BFFF;
+}
